@@ -1,5 +1,6 @@
 function CompatibilityCheck()
 {
+    
     // Identify user agent
     var browser = (function(){
         var ua= navigator.userAgent, tem, 
